@@ -8,7 +8,7 @@ I'm an undergraduate student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranavadith7/pranavadith7](https://github.com/pranavadith7/pranavadith7)
+- 👨‍💻 All of my projects are available at [https://github.com/pranavadith7](https://github.com/pranavadith7)
 
 - 📫 How to reach me **pranavadith7@gmail.com**
 
