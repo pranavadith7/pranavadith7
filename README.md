@@ -1,16 +1,16 @@
 <h1 align="center">Hey there 👋, I'm Pranav</h1>
-<h3 align="center">An aspiring Engineering Student interested in ML and AI</h3>
-I'm an undergraduate student at Amrita Vishwa Vidyapeetham, Coimbatore. I have a passion for sports especially Badminton🏸
+<h3 align="center">An aspiring Engineering Grad interested in Software Development</h3>
+I completed Engineering at Amrita Vishwa Vidyapeetham, Coimbatore. I have a passion for sports, especially Badminton🏸
 
 ![Profile views](https://gpvc.arturio.dev/pranavadith7)  
 
-- 🔭 I’m currently working on **few projects**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **developmental ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavadith7](https://github.com/pranavadith7)
 
-- 📫 How to reach me **pranavadith7@gmail.com**
+- 📫 How to reach me **pranav@popo.cf**
 
 - ⚡ Fun fact **Love travelling**
 
