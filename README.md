@@ -10,7 +10,7 @@ I completed Engineering at Amrita Vishwa Vidyapeetham, Coimbatore. I have a pass
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavadith7](https://github.com/pranavadith7)
 
-- 📫 How to reach me **pranav@popo.cf**
+- 📫 How to reach me **pranavadith7@gmail.com**
 
 - ⚡ Fun fact **Love travelling**
 
